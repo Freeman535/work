@@ -27,9 +27,10 @@ def read_x():  # 读取表格
                     "name": str(values[5]),
                     "jhj": str(values[6]),
                     "sj": str(values[7]),
-                    "class1": str(values[8]),
-                    "class2": str(values[9]),
-                    "class3": str(values[10]),
+                    "sj-hd": str(values[8]),
+                    "class1": str(values[9]),
+                    "class2": str(values[10]),
+                    "class3": str(values[11])
                 }
             )
         )
